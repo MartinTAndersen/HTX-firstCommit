@@ -1,6 +1,7 @@
 # Enter your name - not in the top
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
+- [Rasmus Kristensen] (https://github.com/RasmusKristensen2004)
 - [Louie Riedel](https://github.com/LouieRiedel)
 - [Teis Bonde Christiansen](https://github.com/TeisBC)
 - [Sara Schmidt](https://github.com/Sara-2006)
