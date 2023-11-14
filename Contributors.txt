@@ -1,5 +1,5 @@
 # Enter your name - not in the top
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
-Rasmus Kristensen
+- [Rasmus Kristensen] (https://github.com/RasmusKristensen2004)
 # Nor in the bottom
