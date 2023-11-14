@@ -1,7 +1,6 @@
 # Enter your name - not in the top
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
-- [Chris Bruhn](https://github.com/ChrisBruhn)  
 - [Louie Riedel](https://github.com/LouieRiedel)
 - [Søren Hejnfelt Nielsen](https://github.com/Delle37)
 - [Emanuele Pedersen](https://github.com/emanuelepedersen)
