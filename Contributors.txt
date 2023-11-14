@@ -2,5 +2,6 @@
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
 - [Louie Riedel](https://github.com/LouieRiedel)
+- [Sara Schmidt](https://github.com/Sara-2006)
 - [Søren Hejnfelt Nielsen](https://github.com/Delle37)
 # Nor in the bottom
